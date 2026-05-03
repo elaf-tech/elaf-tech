@@ -43,6 +43,6 @@ I bridge the gap between robust technical performance and premium aesthetic desi
 
 ### 📫 Connect with Me
 - **LinkedIn:** [Elaf Alhadaie](https://www.linkedin.com/in/elaf-alhadaie/)
-- **Email:** elaf.tech.dev@gmail.com
+- **Email:** elaffalhadaie@gmail.com
 
 "I am passionate about staying ahead of the tech curve and delivering innovative software that drives business growth and provides a seamless user experience."
